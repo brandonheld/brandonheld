@@ -3,11 +3,10 @@
 Hello,
 I am a Full-Stack Developer with knowledge of many technologies and languages such as, JavaScript, Python, React, Node.js, Flask and Postgres to list a few. Even though most of my time is happily spent as a developer either working on projects or learning new technologies and or languages, I like to think I am more than just a developer. Outside of software engineering I enjoy outdoor activities such as hiking, off roading, boating and exploring. Please feel free to reach out to me on LinkedIn so we can have a conversion! Hope you have a great rest of your day!
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/brandon-held12/"
-    
+<a href="https://www.linkedin.com/in/brandon-held12/">
+                    <i class="fab fa-linkedin fa-3x"></i>
+                </a>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white)
 <!--
 **brandonheld/brandonheld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
