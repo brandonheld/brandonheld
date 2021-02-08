@@ -1,6 +1,6 @@
 ![Header](https://github.com/brandonheld/brandonheld/blob/main/githubprofile.jpg)
 ### Hi there 👋
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=appveyor&logoColor=white&color=2bbc8a)
 <!--
 **brandonheld/brandonheld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
