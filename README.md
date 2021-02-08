@@ -5,7 +5,7 @@ I am a Full-Stack Developer with knowledge of many technologies and languages su
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brandonheld)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-held12/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://brandonheld.dev)  
 
-Knowledge of :
+Knowledge of :  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonheld)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonheld&show_icons=true)  
