@@ -10,4 +10,4 @@ Knowledge of :
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/brandonheld)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonheld&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/brandonheld&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonheld&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
