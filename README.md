@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/brandonheld/brandonheld/readme_header.png "Header")](https://github.com/brandonheld/brandonheld/blob/main/githubprofile.jpg)
+[![Header](https://raw.githubusercontent.com/brandonheld/brandonheld/brandonheld/readme_header.png "Header")](https://github.com/brandonheld/brandonheld/blob/main/githubprofile.jpg)
 ### Hi there 👋
 
 <!--
