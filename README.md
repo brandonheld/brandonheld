@@ -8,4 +8,4 @@ I am a Full-Stack Developer with knowledge of many technologies and languages su
 Knowledge of :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonheld)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonheld)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonheld&show_icons=true)  
